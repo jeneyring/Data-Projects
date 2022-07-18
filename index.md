@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Cluster Features: Predicting Property Value for Z-estimate scores 
 
 [Project 1 Title](/sample_page)
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
