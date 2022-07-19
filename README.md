@@ -45,5 +45,5 @@ ___
 ### Contact Me
 
 email: jen.j.eyring@gmail.com
-LinkedIn: <a href'https://www.linkedin.com/in/jennifereyring/', /jennifereyring </a>
+LinkedIn: https://www.linkedin.com/in/jennifereyring/
 
