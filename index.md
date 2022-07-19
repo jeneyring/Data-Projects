@@ -20,7 +20,7 @@
 ### Links to full projects
 
 - [Predicting Propery Value](https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb)
-- [Project 2 Title](http://example.com/)
+- [Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
