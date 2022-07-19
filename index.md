@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Classifying Drivers of Customer Churn](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Links to full projects
 
 - [Predicting Propery Value](https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb)
 - [Project 2 Title](http://example.com/)
