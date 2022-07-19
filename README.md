@@ -1,51 +1,49 @@
-## Developer Portfolio Landing Page Template
+## Jen Eyring's Portfolio:
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hello there!
+My name is Jennifer Eyring and I am a Data Scientist with strong skills in analytics and visualizations.  
+I have a supportive and team-strong personality, where I make sure I am doing my best while also helping others work to their own potential.
 
-<img src="images/demo.gif?raw=true"/>
+I have a background in marketing and tech support for small business yoga + wellness companies
+where I have helped build and develop three different online yoga studios and was community director for these online platforms. 
 
-### Installation
+I am skilled at visualizations and design, and enjoy sharing the story of business data with 
+shareholders and small business owners. 
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+### Projects
+
+To see the data projects and models I have created/contributed to, click on the project titles to the right!
 ___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Links to each project are listed at the bottom of this page or you can read the executive summaries and findings within each projects' page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
+I am proficient and frequently utilize my skills in:
+- SQL
+- Python
+- Pandas
+- numpy
+- Matplotlib
+- Advanced statistics
+- Data Storytelling
+- Powerpoint/Canva
+- Machine Learning
+- API key integrations
+- HTML
+- CSS
+- Tableau
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More About Me
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+I am a military spouse and have three beautiful children. My interests outside of data and asking questions are skateboarding, 
+filming videos/short movies, desiging websites, exploring new places/traveling, reading and watching horror films.
 ___
 
-### References
+### Contact Me
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+email: jen.j.eyring@gmail.com
+LinkedIn: <a href'https://www.linkedin.com/in/jennifereyring/', /jennifereyring </a>
+
