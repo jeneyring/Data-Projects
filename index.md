@@ -8,8 +8,8 @@
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
-[Classifying Drivers of Customer Churn](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Classifying Drivers of Customer Churn]()
+<img src="images/telco.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
