@@ -1,6 +1,3 @@
-
-<h1 style="font-family: Gills Sans, sans serif">Portfolio</h1>
-
 <i>Hello world!</i>
 
 <h3 style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.</h3>
