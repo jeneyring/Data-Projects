@@ -38,11 +38,6 @@ Below you can look through some of my machine learning and business analyst proj
 Some of my favorite projects are when I get to add in visual elements and use Tableau!
 </p>
 
-<br>
-<br>
-
-
-
 ---
 <br>
 
