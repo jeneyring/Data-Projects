@@ -12,11 +12,18 @@
 <img src="images/telco.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Take the Shot or Not: NBA prediction model of 3pt Shots](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+## Tableau Projects
 
+[Take the Shot or Not: Players dashboard from capstone project](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
+<img src="/>
+          
+          
+---
+          
 ### Links to full projects
 
 - [Predicting Propery Value](https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb)
