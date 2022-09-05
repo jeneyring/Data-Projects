@@ -40,7 +40,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 ---
 <br>
 
-###  Predictive Models:
+<h2>  Predictive Models:</h2>
 
 [Cluster Features: Predicting Property Value for Z-estimate scores](https://github.com/jeneyring/Clustering-Final-Project)
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
