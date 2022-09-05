@@ -3,7 +3,7 @@
 
 <i>Hello world!</i>
 
-<p style="font-family: Gill Sans, sans serif, size: 24px">I am a business data analyst with 4 years experience of working with small businesses.<br>
+<p style="font-family: Gill Sans, sans serif>I am a business data analyst with 4 years experience of working with small businesses.<br>
 During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
           
 <br>
@@ -35,7 +35,8 @@ During my work experience I have helped business owners utilize their data and m
 <br>
 <br>
 Below you can look through some of my machine learning and business analyst projects.<br>
-Some of my favorite projects are when I get to add in visual elements and use Tableau!</p>
+Some of my favorite projects are when I get to add in visual elements and use Tableau!
+</p>
 <br>
 <br>
 
