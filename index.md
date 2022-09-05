@@ -19,7 +19,7 @@
 ## Tableau Projects
 
 [Take the Shot or Not: Players dashboard from capstone project](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
-<img src="/>
+<img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
           
           
 ---
