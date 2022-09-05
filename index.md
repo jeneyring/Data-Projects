@@ -8,7 +8,7 @@
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
-[Classifying Drivers of Customer Churn]()
+[Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report)
 <img src="images/telco.png?raw=true"/>
 
 ---
