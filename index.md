@@ -53,15 +53,15 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 ---
 <br>
 <h2>Group Projects:</h2>
-
-[Take the Shot or Not: NBA prediction model of 3pt Shots](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
+<br>
+<a href="https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md" title="Taketheshot">Take the Shot or Not: NBA prediction model of 3pt Shots</a>
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
 <br>
 ---
 <br>
 <h2>Tableau Projects</h2>
-
-[Take the Shot or Not: Players dashboard from capstone project](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
+<br>
+<a href="https://public.tableau.com/app/profile/jen.eyring/viz/TheRealDeal_16599956906400/Story1" title="Taketheshot">Take the Shot or Not: Players dashboard from capstone project</a>
 <img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
           
 <br>         
@@ -69,7 +69,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 <br>        
 <h2>Links to full projects<h2>
 
-- [Predicting Propery Value](https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb)
+<li><a href ="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title ="ppv">Predicting Propery Value</a>
 - [Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
