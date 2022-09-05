@@ -3,7 +3,7 @@
 
 <i>Hello world!</i>
 
-<h3 style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.</h3><br>
+<h3 style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.</h3>
 <p style="font-family: Gill Sans, sans serif">During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
           
 <br>
@@ -33,7 +33,7 @@
           <li> Mailchimp
           <li> CRM
 <br>
-<br>
+<br><p style="font-family: Gill Sans, sans serif">
 Below you can look through some of my machine learning and business analyst projects.<br>
 Some of my favorite projects are when I get to add in visual elements and use Tableau!
 </p>
@@ -46,12 +46,12 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 ---
 <br>
 
-<h2>  Predictive Models:</h2>
-
+<h2 style="font-family: Gill Sans, sans serif">  Predictive Models:</h2>
+<p style="font-family: Gill Sans, sans serif">
 <a href="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title="Zillow">Cluster Features: Predicting Property Value for Z-estimate scores</a>
 
 To improve Zillow's current property value predictions model, I looked into some unstructured ML methods of cluster methods to see if by clustering any of the key drivers that correlated to logerror, I could then create a new model that would beat baseline.                                              
-
+                    </p>
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
