@@ -16,8 +16,19 @@ During my work experience I have helped business owners utilize their data and m
           <li> Scikit-learn
           <li> Microsoft Excel
           <li> Applied Statistics
-<b>
+<br>
+<br>
           <b> Other skillsets:</b>
+          <li> HTML
+          <li> CSS
+          <li> API key integrations
+          <li> Facebook (Meta) Ads
+          <li> Google Ads
+          <li> Website designing
+          <li> Teachable course creation
+          <li> Mailchimp
+          <li> CRM
+<br>
 <br>
 Below you can look through some of my machine learning and business analyst projects.<br>
 Some of my favorite projects are when I get to add in visual elements and use Tableau!<br></p>
