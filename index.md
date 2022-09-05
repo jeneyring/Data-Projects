@@ -47,7 +47,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 
 ---
 <br>
-<a href="https://github.com/jeneyring/Classification_Final_Report" title="Telco">Classifying Drivers of Customer Churn</a>
+<a href="https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb" title="Telco">Classifying Drivers of Customer Churn</a>
 <img src="images/telco.png?raw=true"/>
 <br>
 ---
