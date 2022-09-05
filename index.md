@@ -7,7 +7,7 @@
 During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
           
 <br>
-<a href="https://www.canva.com/design/DAFKcfvV4VE/07tsZozosAm6r6t8Cg88Hw/view?utm_content=DAFKcfvV4VE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" title="resume"> <b> Read my resume </a>
+<a href="https://www.canva.com/design/DAFKcfvV4VE/07tsZozosAm6r6t8Cg88Hw/view?utm_content=DAFKcfvV4VE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" title="resume"> <b> Read my resume</b></a>
 <br>
 <br>
           <b>Skills of the Trade</b> (what I use most when analyzing data):<br>
