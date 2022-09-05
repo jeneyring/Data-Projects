@@ -12,11 +12,13 @@
 <img src="images/telco.png?raw=true"/>
 
 ---
+### Group Projects:
+
 [Take the Shot or Not: NBA prediction model of 3pt Shots](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
 
 ---
-## Tableau Projects
+### Tableau Projects
 
 [Take the Shot or Not: Players dashboard from capstone project](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
