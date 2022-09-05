@@ -57,7 +57,14 @@ To improve Zillow's current property value predictions model, I looked into some
 In this project I explored and hypothesis tested the Telco dataset to find any relations between different Telco customer demographics and churn.
                               I constructed a ML classification model that accurately predicted Telco's customer churn by 81%. </p>
 <img src="images/telco.png?raw=true"/>
+
+---
 <br>
+<p style="font-family: Gill Sans, sans serif">
+<a href="https://github.com/jeneyring/GSS_survey/blob/main/Zodiac_Prediction_Model_Final_Report.ipynb" title="Zodiac">Zodiac Prediction Model</a><br>
+
+This project is an interest project, taking the GSS participant responses and comparing their zodiac responses to their other survey answers to see if a Classification Model can accurately predict their Zodiac sign/birth month.                    </p>
+<img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 ---
 <br>
 <h2 style="font-family: Gill Sans, sans serif">Group Projects:</h2>
