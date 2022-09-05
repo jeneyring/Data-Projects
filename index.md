@@ -49,13 +49,15 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 
 <a href="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title="Zillow">Cluster Features: Predicting Property Value for Z-estimate scores</a>
 
-To improve Zillow's current property value predictions model, I looked into some unstructured ML methods of cluster methods to see if by clustering any of the key drivers that correlated to logerror, I could then create a new model that would beat baseline. Though I was not able to beat baseline, I was able to find key drivers using the clustering methods.                                                                                                     
+To improve Zillow's current property value predictions model, I looked into some unstructured ML methods of cluster methods to see if by clustering any of the key drivers that correlated to logerror, I could then create a new model that would beat baseline.                                              
 
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
 <br>
 <a href="https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb" title="Telco">Classifying Drivers of Customer Churn</a>
+In this project I explored and hypothesis tested the Telco dataset to find any relations between different Telco customer demographics and churn.
+I constructed a ML classification model that accurately predicted Telco's customer churn by 81%.
 <img src="images/telco.png?raw=true"/>
 <br>
 ---
