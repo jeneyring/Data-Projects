@@ -64,7 +64,7 @@ In this project I explored and hypothesis tested the Telco dataset to find any r
 <a href="https://github.com/jeneyring/GSS_survey/blob/main/Zodiac_Prediction_Model_Final_Report.ipynb" title="Zodiac">Zodiac Prediction Model</a><br>
 
 This project is an interest project, taking the GSS participant responses and comparing their zodiac responses to their other survey answers to see if a Classification Model can accurately predict their Zodiac sign/birth month.                    </p>
-<img src="Screen Shot 2022-09-05 at 6.26.07 AM.png?raw=true"/>
+<img src="images/Screen Shot 2022-09-05 at 6.26.07 AM.png?raw=true"/>
                     <br>
 ---
 <br>
