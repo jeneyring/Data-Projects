@@ -31,7 +31,9 @@ During my work experience I have helped business owners utilize their data and m
 <br>
 <br>
 Below you can look through some of my machine learning and business analyst projects.<br>
-Some of my favorite projects are when I get to add in visual elements and use Tableau!<br></p>
+Some of my favorite projects are when I get to add in visual elements and use Tableau!</p>
+<br>
+<br>
 
 
 
