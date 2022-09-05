@@ -81,6 +81,13 @@ Our team took the 2021-22 NBA data and found key drivers of when a player should
           After finding the top languages being used for each Github repo, we then took the words/wording within the README sections of the repos to see if we could build a model that could predict what programming language was used; solely based on the README content and text.
 </p>
 <img src="images/Screen Shot 2022-09-05 at 6.37.25 AM.png?raw=true"/>
+<br>
+---
+<p style="font-family: Gill Sans, sans serif">
+<a href="https://github.com/miller-cerna-laskowski-morris-eyring/anomaly-group-project/blob/main/Final.ipynb" title="Anomaly">Anomaly Project: Curriculum Access Analysis</a></p>
+<p style="font-family: Gill Sans, sans serif"> Our team took the lead as Data Analysts for the CodeUp staff. We had been tasked to answer several questions leadership will speak on at an upcoming board meeting. In addition to the questions found in our project, we used Anomaly Detection methodologies to answer the questions. The data source is from the curriculum_logs MySql CodeUp database.
+</p>
+<img src="images/Screen Shot 2022-09-05 at 6.56.20 AM.png?raw=true"/>
                    
 ---
 <br>
