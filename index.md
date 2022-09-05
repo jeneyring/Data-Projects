@@ -20,7 +20,7 @@
           <li> Scikit-learn
           <li> Microsoft Excel
           <li> Applied Statistics
-</p><br>
+<br>
 <br><p style="font-family: Gill Sans, sans serif">
           <b> Other skillsets:</b>
           <li> HTML
