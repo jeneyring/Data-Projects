@@ -5,6 +5,9 @@
 
 <p style="font-family: Gill Sans, sans serif, size: 24px">I am a business data analyst with 4 years experience of working with small businesses.<br>
 During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
+          
+<br>
+<a href="https://www.canva.com/design/DAFKcfvV4VE/07tsZozosAm6r6t8Cg88Hw/view?utm_content=DAFKcfvV4VE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" title="resume"> <b> See my resume </a>
 <br>
           <b>Skills of the Trade</b> (what I use most when analyzing data):<br>
           <li> SQL
@@ -43,6 +46,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 <h2>  Predictive Models:</h2>
 
 <a href="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title="Zillow">Cluster Features: Predicting Property Value for Z-estimate scores</a>
+
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
@@ -67,17 +71,6 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 <br>         
 ---
 <br>        
-<h2>Links to full projects</h2>
-
-<li> <a href ="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title ="ppv">Predicting Propery Value</a>
-- [Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-<br>
----
-<br>
-
 
 
 ---
