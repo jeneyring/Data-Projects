@@ -70,14 +70,22 @@ This project is an interest project, taking the GSS participant responses and co
 <br>
 <h2 style="font-family: Gill Sans, sans serif">Group Projects:</h2>
 <br>
-<a href="https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md" title="Taketheshot">Take the Shot or Not: NBA prediction model of 3pt Shots</a>
+                    <p style="font-family: Gill Sans, sans serif">
+<a href="https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md" title="Taketheshot">Take the Shot or Not: NBA prediction model of 3pt Shots</a></p>
+                    <p style="font-family: Gill Sans, sans serif">
+Our team took the 2021-22 NBA data and found key drivers of when a player should take the 3point shot or not.
+                    </p>
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
 <br>
 ---
 <br>
 <h2 style="font-family: Gill Sans, sans serif">Tableau Projects</h2>
 <br>
-<a href="https://public.tableau.com/app/profile/jen.eyring/viz/TheRealDeal_16599956906400/Story1" title="Taketheshot">Take the Shot or Not: Players dashboard from capstone project</a>
+                     <p style="font-family: Gill Sans, sans serif">
+<a href="https://public.tableau.com/app/profile/jen.eyring/viz/TheRealDeal_16599956906400/Story1" title="Taketheshot">Take the Shot or Not: Players dashboard from capstone project</a></p>
+                     <p style="font-family: Gill Sans, sans serif">
+                               This NBA player dashboard can give players and coaches insight into better ways each of their 3point shots are best made and how a player can better train on these types of shots.</p>
+
 <img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
           
 <br>         
