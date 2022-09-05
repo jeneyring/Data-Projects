@@ -46,6 +46,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
+<br>
 <a href="https://github.com/jeneyring/Classification_Final_Report" title="Telco">Classifying Drivers of Customer Churn</a>
 <img src="images/telco.png?raw=true"/>
 <br>
