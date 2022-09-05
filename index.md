@@ -67,9 +67,9 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 <br>         
 ---
 <br>        
-<h2>Links to full projects<h2>
+<h2>Links to full projects</h2>
 
-<li><a href ="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title ="ppv">Predicting Propery Value</a>
+<li> <a href ="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title ="ppv">Predicting Propery Value</a>
 - [Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
