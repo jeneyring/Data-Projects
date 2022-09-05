@@ -3,7 +3,7 @@
 
 <i>Hello world!</i>
 
-<p style="font-family: Gill Sans">I am a business data analyst with 4 years experience of working with small businesses.
+<p style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.
 During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to upscale their small business.</p>
 
 
