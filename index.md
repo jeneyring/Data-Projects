@@ -63,14 +63,14 @@ I constructed a ML classification model that accurately predicted Telco's custom
 <br>
 ---
 <br>
-<h2>Group Projects:</h2>
+<h2 style="font-family: Gill Sans, sans serif">Group Projects:</h2>
 <br>
 <a href="https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md" title="Taketheshot">Take the Shot or Not: NBA prediction model of 3pt Shots</a>
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
 <br>
 ---
 <br>
-<h2>Tableau Projects</h2>
+<h2 style="font-family: Gill Sans, sans serif">Tableau Projects</h2>
 <br>
 <a href="https://public.tableau.com/app/profile/jen.eyring/viz/TheRealDeal_16599956906400/Story1" title="Taketheshot">Take the Shot or Not: Players dashboard from capstone project</a>
 <img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
