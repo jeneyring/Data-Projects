@@ -38,6 +38,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 
 
 ---
+<br>
 
 ###  Predictive Models:
 
@@ -47,22 +48,24 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 ---
 [Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report)
 <img src="images/telco.png?raw=true"/>
-
+<br>
 ---
+<br>
 ### Group Projects:
 
 [Take the Shot or Not: NBA prediction model of 3pt Shots](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
-
+<br>
 ---
+<br>
 ### Tableau Projects
 
 [Take the Shot or Not: Players dashboard from capstone project](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
           
-          
+<br>         
 ---
-          
+<br>        
 ### Links to full projects
 
 - [Predicting Propery Value](https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb)
@@ -70,9 +73,9 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+<br>
 ---
-
+<br>
 
 
 
