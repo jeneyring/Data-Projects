@@ -3,8 +3,8 @@
 
 <i>Hello world!</i>
 
-<p style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.<br>
-During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
+<h3 style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.</h3><br>
+<p style="font-family: Gill Sans, sans serif">During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
           
 <br>
 <a href="https://www.canva.com/design/DAFKcfvV4VE/07tsZozosAm6r6t8Cg88Hw/view?utm_content=DAFKcfvV4VE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" title="resume"> <b> Read my resume</b></a>
@@ -20,8 +20,8 @@ During my work experience I have helped business owners utilize their data and m
           <li> Scikit-learn
           <li> Microsoft Excel
           <li> Applied Statistics
-<br>
-<br>
+</p><br>
+<br><p style="font-family: Gill Sans, sans serif">
           <b> Other skillsets:</b>
           <li> HTML
           <li> CSS
@@ -37,6 +37,7 @@ During my work experience I have helped business owners utilize their data and m
 Below you can look through some of my machine learning and business analyst projects.<br>
 Some of my favorite projects are when I get to add in visual elements and use Tableau!
 </p>
+
 <br>
 <br>
 
