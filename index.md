@@ -49,6 +49,8 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 
 <a href="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title="Zillow">Cluster Features: Predicting Property Value for Z-estimate scores</a>
 
+To improve Zillow's current property value predictions model, I looked into some unstructured ML methods of cluster methods to see if by clustering any of the key drivers that correlated to logerror, I could then create a new model that would beat baseline. Though I was not able to beat baseline, I was able to find key drivers using the clustering methods.                                                                                                     
+
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
