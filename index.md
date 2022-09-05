@@ -65,6 +65,7 @@ In this project I explored and hypothesis tested the Telco dataset to find any r
 
 This project is an interest project, taking the GSS participant responses and comparing their zodiac responses to their other survey answers to see if a Classification Model can accurately predict their Zodiac sign/birth month.                    </p>
 <img src="Screen Shot 2022-09-05 at 6.26.07 AM.png?raw=true"/>
+                    <br>
 ---
 <br>
 <h2 style="font-family: Gill Sans, sans serif">Group Projects:</h2>
