@@ -46,7 +46,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 ---
 <br>
 
-<h2 style="font-family: Gill Sans, sans serif">  Predictive Models:</h2>
+<h2 style="font-family: Gill Sans, sans serif">  Predictive Models:</h2><br>
 <p style="font-family: Gill Sans, sans serif">
 <a href="https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb" title="Zillow">Cluster Features: Predicting Property Value for Z-estimate scores</a>
 
@@ -56,7 +56,7 @@ To improve Zillow's current property value predictions model, I looked into some
 
 ---
 <br>
-<a href="https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb" title="Telco">Classifying Drivers of Customer Churn</a>
+<a href="https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb" title="Telco">Classifying Drivers of Customer Churn</a><br>
 In this project I explored and hypothesis tested the Telco dataset to find any relations between different Telco customer demographics and churn.
 I constructed a ML classification model that accurately predicted Telco's customer churn by 81%.
 <img src="images/telco.png?raw=true"/>
