@@ -1,5 +1,5 @@
 
-<h1>Portfolio</h1>
+<h1 style="font-family: Gills Sans, sans serif">Portfolio</h1>
 
 <i>Hello world!</i>
 
