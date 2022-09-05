@@ -3,8 +3,24 @@
 
 <i>Hello world!</i>
 
-<p style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.
-During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to upscale their small business.</p>
+<p style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.<br>
+During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
+<br>
+          <b>Skills of the Trade</b> (what I use most when analyzing data):<br>
+          <li> SQL
+          <li> Python
+          <li> Tableau
+          <li> Seaborn
+          <li> Matplotlib
+          <li> Numpy
+          <li> Scikit-learn
+          <li> Microsoft Excel
+          <li> Applied Statistics
+<b>
+          <b> Other skillsets:</b>
+<br>
+Below you can look through some of my machine learning and business analyst projects.<br>
+Some of my favorite projects are when I get to add in visual elements and use Tableau!<br></p>
 
 
 
