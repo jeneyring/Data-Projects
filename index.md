@@ -103,8 +103,13 @@ Our team took the 2021-22 NBA data and found key drivers of when a player should
 <br>         
 ---
 <br>        
+<p style="font-family: Gill Sans, sans serif">
+<a href="https://public.tableau.com/app/profile/jen.eyring/viz/GreenDestinations-AttritionDashboard/Dashboard1" title="Attrition">Green Destinations Attrition dashboard</a></p>
+                     <p style="font-family: Gill Sans, sans serif">
+                               This dashboard is to give the CEO of Green Destinations insight into the attrition numbers of their employees. This dashboard breaks down possible variables that could be contributing to attrition, such as pay scale, years at company, age, etc.</p>
 
-
+<img src="images/Screen Shot 2022-09-05 at 7.04.12 AM.png?raw=true"/>
+<br>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
