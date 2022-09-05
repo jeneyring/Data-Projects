@@ -1,5 +1,5 @@
 
-## Jennifer Eyring's Portfolio
+<h1>Portfolio</h1>
 
 <i>Hello world!</i>
 
@@ -42,23 +42,23 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 
 <h2>  Predictive Models:</h2>
 
-[Cluster Features: Predicting Property Value for Z-estimate scores](https://github.com/jeneyring/Clustering-Final-Project)
+<a href="https://github.com/jeneyring/Clustering-Final-Project" title="Zillow">Cluster Features: Predicting Property Value for Z-estimate scores</a>
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
-[Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report)
+<a href="https://github.com/jeneyring/Classification_Final_Report" title="Telco">Classifying Drivers of Customer Churn</a>
 <img src="images/telco.png?raw=true"/>
 <br>
 ---
 <br>
-### Group Projects:
+<h2>Group Projects:</h2>
 
 [Take the Shot or Not: NBA prediction model of 3pt Shots](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
 <br>
 ---
 <br>
-### Tableau Projects
+<h2>Tableau Projects</h2>
 
 [Take the Shot or Not: Players dashboard from capstone project](https://github.com/Eyring-Miller-Muriithi-capstone/shot-caller-for-ballers/blob/main/README.md)
 <img src="images/Screen Shot 2022-09-05 at 4.31.45 AM.png?raw=true"/>
@@ -66,7 +66,7 @@ Some of my favorite projects are when I get to add in visual elements and use Ta
 <br>         
 ---
 <br>        
-### Links to full projects
+<h2>Links to full projects<h2>
 
 - [Predicting Propery Value](https://github.com/jeneyring/Clustering-Final-Project/blob/main/Final_Report.ipynb)
 - [Classifying Drivers of Customer Churn](https://github.com/jeneyring/Classification_Final_Report/blob/main/Final_Report.ipynb)
