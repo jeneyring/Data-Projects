@@ -4,7 +4,7 @@
 
 ###  Predictive Models:
 
-[Cluster Features: Predicting Property Value for Z-estimate scores](/sample_page)
+[Cluster Features: Predicting Property Value for Z-estimate scores](https://github.com/jeneyring/Clustering-Final-Project)
 <img src="images/Screen Shot 2022-07-18 at 12.13.35 PM.png?raw=true"/>
 
 ---
