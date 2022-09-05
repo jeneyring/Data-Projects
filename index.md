@@ -78,6 +78,14 @@ Our team took the 2021-22 NBA data and found key drivers of when a player should
 <img src="images/Screen Shot 2022-09-05 at 4.38.32 AM.png?raw=true"/>
 <br>
 ---
+<p style="font-family: Gill Sans, sans serif">
+<a href="https://github.com/jemison-nlp-AnJeSt/github-NLP-project/blob/main/Final_Notebook.ipynb" title="Linux">Linux NLP project: Grip Linux Count</a></p>
+<p style="font-family: Gill Sans, sans serif"> Our team scraped the top 3,300 most-forked Linux Github repositories (as of July 20, 2022) to determine what are the top programming languages being used on Linux Github projects.
+          After finding the top languages being used for each Github repo, we then took the words/wording within the README sections of the repos to see if we could build a model that could predict what programming language was used; solely based on the README content and text.
+</p>
+<img src="images/Screen Shot 2022-09-05 at 6.37.25 AM.png?raw=true"/>
+                   
+---
 <br>
 <h2 style="font-family: Gill Sans, sans serif">Tableau Projects</h2>
 <br>
