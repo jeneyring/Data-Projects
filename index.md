@@ -1,6 +1,6 @@
 <i>Hello world!</i>
 
-<h3 style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses.</h3>
+<h3 style="font-family: Gill Sans, sans serif">I am a business data analyst with 4 years experience of working with small businesses. </h3>
 <p style="font-family: Gill Sans, sans serif">During my work experience I have helped business owners utilize their data and media content to launch large online platforms, yoga & movement studios, global festivals and worked directly in sales and marketing to grow their small business.<br>
           
 <br>
