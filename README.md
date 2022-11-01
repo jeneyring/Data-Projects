@@ -1,6 +1,6 @@
 ## Jen Eyring's Portfolio:
 
-To view my portfolio website, please visit: https://jeneyring.github.io/data-projects
+To view my portfolio website, please visit: https://jeneyring.github.io/Data-Projects
 
 ### Introduction
 
